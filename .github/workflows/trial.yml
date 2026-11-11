@@ -1,0 +1,32 @@
+name: Wolfpack 30-day paper trial
+on:
+  schedule:
+    - cron: '15 14,20 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: wolfpack-trial
+  cancel-in-progress: false
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Capture pregame picks and grade completed games
+        run: python scripts/trial_tracker.py
+      - name: Save trial records
+        run: |
+          git config user.name "wolfpack-trial-bot"
+          git config user.email "wolfpack-trial-bot@users.noreply.github.com"
+          git add trial-results.json trial-results.csv trial-summary.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Wolfpack paper trial results"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
