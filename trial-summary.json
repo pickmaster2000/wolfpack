@@ -1,0 +1,20 @@
+{
+  "model_version": "recent-scoring-v2",
+  "updated_utc": "2026-11-11T14:40:13.967857+00:00",
+  "trial_start": "2026-11-11",
+  "trial_end": "2026-12-11",
+  "captured_games": 10,
+  "spread": {
+    "wins": 0,
+    "losses": 0,
+    "pushes": 0,
+    "win_pct": null
+  },
+  "total": {
+    "wins": 0,
+    "losses": 0,
+    "pushes": 0,
+    "win_pct": null
+  },
+  "errors": []
+}
