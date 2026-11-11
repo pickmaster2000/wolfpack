@@ -1,0 +1,32 @@
+name: Wolfpack odds refresh
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: wolfpack-odds
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch bookmaker lines
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python scripts/fetch_odds.py
+      - name: Publish updated lines
+        run: |
+          git config user.name "wolfpack-odds-bot"
+          git config user.email "wolfpack-odds-bot@users.noreply.github.com"
+          git add odds.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Wolfpack market odds"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
