@@ -9,9 +9,9 @@ event_id,tip_utc,captured_utc,home,away,projected_home,projected_away,home_sprea
 401930177,2026-11-12T02:00:00+00:00,2026-11-11T14:40:13.967857+00:00,UCLA Bruins,Arkansas-Pine Bluff Golden Lions,93.0,56.5,-45.5,157.5,DraftKings,recent-scoring-v2,-9.0,-8.0,away,under,106,37,L,W
 401925738,2026-11-12T03:00:00+00:00,2026-11-11T14:40:13.967857+00:00,Oregon Ducks,Mississippi Valley State Delta Devils,87.2,58.7,-37.5,149.5,DraftKings,recent-scoring-v2,-9.0,-3.6,away,under,100,66,W,L
 401918054,2026-11-12T04:00:00+00:00,2026-11-11T14:40:13.967857+00:00,California Golden Bears,USC Trojans,74.0,76.3,8.5,161.5,DraftKings,recent-scoring-v2,6.2,-11.2,home,under,65,77,L,W
-401917176,2026-11-12T23:30:00+00:00,2026-11-12T15:06:42.600421+00:00,Penn State Nittany Lions,Mercyhurst Lakers,78.9,67.4,-20.5,149.5,Draft Kings,recent-scoring-v2,-9.0,-3.2,away,under,,,,
 401916288,2026-11-12T23:30:00+00:00,2026-11-12T15:06:42.600421+00:00,Indiana Hoosiers,Tennessee Tech Golden Eagles,85.9,69.4,-25.5,169.5,Draft Kings,recent-scoring-v2,-9.0,-14.2,away,under,,,,
+401917176,2026-11-12T23:30:00+00:00,2026-11-12T15:06:42.600421+00:00,Penn State Nittany Lions,Mercyhurst Lakers,78.9,67.4,-20.5,149.5,Draft Kings,recent-scoring-v2,-9.0,-3.2,away,under,,,,
 401921768,2026-11-13T00:00:00+00:00,2026-11-12T15:06:42.600421+00:00,West Virginia Mountaineers,Mercer Bears,82.3,63.8,-27.5,151.5,Draft Kings,recent-scoring-v2,-9.0,-5.4,away,under,,,,
-401919041,2026-11-13T01:00:00+00:00,2026-11-12T15:06:42.600421+00:00,Texas A&M Aggies,Oklahoma State Cowboys,76.2,74.1,-8.5,178.5,Draft Kings,recent-scoring-v2,-6.4,-28.2,away,under,,,,
 401916306,2026-11-13T01:00:00+00:00,2026-11-12T15:06:42.600421+00:00,Minnesota Golden Gophers,Southern Jaguars,79.5,63.0,-25.5,142.5,Draft Kings,recent-scoring-v2,-9.0,0.0,away,,,,,
+401919041,2026-11-13T01:00:00+00:00,2026-11-12T15:06:42.600421+00:00,Texas A&M Aggies,Oklahoma State Cowboys,76.2,74.1,-8.5,178.5,Draft Kings,recent-scoring-v2,-6.4,-28.2,away,under,,,,
 401921741,2026-11-13T02:00:00+00:00,2026-11-12T15:06:42.600421+00:00,BYU Cougars,Montana State Bobcats,82.1,67.6,-23.5,164.5,Draft Kings,recent-scoring-v2,-9.0,-14.8,away,under,,,,
