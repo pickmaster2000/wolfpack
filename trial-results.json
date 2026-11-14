@@ -146,6 +146,40 @@
     "total_line": 157.5,
     "total_pick": "under"
   },
+  "401906866": {
+    "away": "Baylor Bears",
+    "captured_utc": "2026-11-14T20:50:08.004124+00:00",
+    "event_id": "401906866",
+    "home": "Texas Longhorns",
+    "home_spread": -6.5,
+    "model_version": "recent-scoring-v2",
+    "odds_source": "DraftKings",
+    "projected_away": 71.0,
+    "projected_home": 77.5,
+    "spread_edge": 0.0,
+    "spread_pick": null,
+    "tip_utc": "2026-11-15T20:00:00+00:00",
+    "total_edge": -12.0,
+    "total_line": 160.5,
+    "total_pick": "under"
+  },
+  "401909493": {
+    "away": "Creighton Bluejays",
+    "captured_utc": "2026-11-14T20:50:08.004124+00:00",
+    "event_id": "401909493",
+    "home": "Iowa Hawkeyes",
+    "home_spread": -3.5,
+    "model_version": "recent-scoring-v2",
+    "odds_source": "DraftKings",
+    "projected_away": 70.8,
+    "projected_home": 75.1,
+    "spread_edge": 0.8,
+    "spread_pick": "home",
+    "tip_utc": "2026-11-15T20:00:00+00:00",
+    "total_edge": -0.6,
+    "total_line": 146.5,
+    "total_pick": "under"
+  },
   "401909503": {
     "away": "DePaul Blue Demons",
     "captured_utc": "2026-11-13T14:59:54.853551+00:00",
@@ -207,6 +241,23 @@
     "total_edge": -14.5,
     "total_grade": "W",
     "total_line": 157.5,
+    "total_pick": "under"
+  },
+  "401909525": {
+    "away": "Missouri Tigers",
+    "captured_utc": "2026-11-14T20:50:08.004124+00:00",
+    "event_id": "401909525",
+    "home": "Marquette Golden Eagles",
+    "home_spread": -1.5,
+    "model_version": "recent-scoring-v2",
+    "odds_source": "DraftKings",
+    "projected_away": 71.8,
+    "projected_home": 73.8,
+    "spread_edge": 0.5,
+    "spread_pick": "home",
+    "tip_utc": "2026-11-15T19:30:00+00:00",
+    "total_edge": -7.9,
+    "total_line": 153.5,
     "total_pick": "under"
   },
   "401909534": {
@@ -566,6 +617,23 @@
     "total_line": 159.5,
     "total_pick": "under"
   },
+  "401918949": {
+    "away": "Louisville Cardinals",
+    "captured_utc": "2026-11-14T20:50:08.004124+00:00",
+    "event_id": "401918949",
+    "home": "Memphis Tigers",
+    "home_spread": 9.5,
+    "model_version": "recent-scoring-v2",
+    "odds_source": "DraftKings",
+    "projected_away": 77.6,
+    "projected_home": 71.9,
+    "spread_edge": 3.8,
+    "spread_pick": "home",
+    "tip_utc": "2026-11-15T18:00:00+00:00",
+    "total_edge": -14.0,
+    "total_line": 163.5,
+    "total_pick": "under"
+  },
   "401918958": {
     "away": "Troy Trojans",
     "captured_utc": "2026-11-13T14:59:54.853551+00:00",
@@ -703,6 +771,23 @@
     "total_edge": -11.4,
     "total_grade": "W",
     "total_line": 158.5,
+    "total_pick": "under"
+  },
+  "401920681": {
+    "away": "Syracuse Orange",
+    "captured_utc": "2026-11-14T20:50:08.004124+00:00",
+    "event_id": "401920681",
+    "home": "St. John's Red Storm",
+    "home_spread": -12.5,
+    "model_version": "recent-scoring-v2",
+    "odds_source": "DraftKings",
+    "projected_away": 69.8,
+    "projected_home": 76.8,
+    "spread_edge": -5.5,
+    "spread_pick": "away",
+    "tip_utc": "2026-11-16T00:00:00+00:00",
+    "total_edge": -3.9,
+    "total_line": 150.5,
     "total_pick": "under"
   },
   "401921026": {
@@ -1048,6 +1133,23 @@
     "total_edge": -4.0,
     "total_grade": "L",
     "total_line": 150.5,
+    "total_pick": "under"
+  },
+  "401926063": {
+    "away": "Boise State Broncos",
+    "captured_utc": "2026-11-14T20:50:08.004124+00:00",
+    "event_id": "401926063",
+    "home": "Nebraska Cornhuskers",
+    "home_spread": -9.5,
+    "model_version": "recent-scoring-v2",
+    "odds_source": "DraftKings",
+    "projected_away": 75.2,
+    "projected_home": 77.6,
+    "spread_edge": -7.1,
+    "spread_pick": "away",
+    "tip_utc": "2026-11-15T18:00:00+00:00",
+    "total_edge": -5.7,
+    "total_line": 158.5,
     "total_pick": "under"
   },
   "401926133": {
