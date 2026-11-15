@@ -53,12 +53,12 @@ event_id,tip_utc,captured_utc,home,away,projected_home,projected_away,home_sprea
 401909534,2026-11-14T23:00:00+00:00,2026-11-14T14:53:15.246537+00:00,Providence Friars,Colorado Buffaloes,73.3,69.8,-12.5,156.5,Draft Kings,recent-scoring-v2,-9.0,-13.4,away,under,67,53,L,W
 401921775,2026-11-15T00:00:00+00:00,2026-11-14T14:53:15.246537+00:00,Villanova Wildcats,Rider Broncs,85.0,58.5,-35.5,144.5,Draft Kings,recent-scoring-v2,-9.0,-1.0,away,under,99,62,L,L
 401911188,2026-11-15T00:30:00+00:00,2026-11-14T14:53:15.246537+00:00,Dayton Flyers,Cincinnati Bearcats,73.2,72.7,6.5,147.5,Draft Kings,recent-scoring-v2,7.0,-1.6,home,under,72,95,L,L
-401918949,2026-11-15T18:00:00+00:00,2026-11-14T20:50:08.004124+00:00,Memphis Tigers,Louisville Cardinals,71.9,77.6,9.5,163.5,DraftKings,recent-scoring-v2,3.8,-14.0,home,under,,,,
-401926063,2026-11-15T18:00:00+00:00,2026-11-14T20:50:08.004124+00:00,Nebraska Cornhuskers,Boise State Broncos,77.6,75.2,-9.5,158.5,DraftKings,recent-scoring-v2,-7.1,-5.7,away,under,,,,
-401909774,2026-11-15T18:00:00+00:00,2026-11-15T14:54:14.742662+00:00,Iowa State Cyclones,Niagara Purple Eagles,87.4,56.9,-39.5,142.5,Draft Kings,recent-scoring-v2,-9.0,1.8,away,over,,,,
-401909554,2026-11-15T18:30:00+00:00,2026-11-15T14:54:14.742662+00:00,Boston College Eagles,New Hampshire Wildcats,77.5,63.0,-23.5,132.5,Draft Kings,recent-scoring-v2,-9.0,8.0,away,over,,,,
-401921760,2026-11-15T19:00:00+00:00,2026-11-14T14:53:15.246537+00:00,Utah Utes,Washington Huskies,73.1,70.8,-3.5,143.5,Draft Kings,recent-scoring-v2,-1.2,0.4,away,over,,,,
+401909774,2026-11-15T18:00:00+00:00,2026-11-15T14:54:14.742662+00:00,Iowa State Cyclones,Niagara Purple Eagles,87.4,56.9,-39.5,142.5,Draft Kings,recent-scoring-v2,-9.0,1.8,away,over,66,45,W,L
+401918949,2026-11-15T18:00:00+00:00,2026-11-14T20:50:08.004124+00:00,Memphis Tigers,Louisville Cardinals,71.9,77.6,9.5,163.5,DraftKings,recent-scoring-v2,3.8,-14.0,home,under,98,78,W,L
+401926063,2026-11-15T18:00:00+00:00,2026-11-14T20:50:08.004124+00:00,Nebraska Cornhuskers,Boise State Broncos,77.6,75.2,-9.5,158.5,DraftKings,recent-scoring-v2,-7.1,-5.7,away,under,102,75,L,L
+401909554,2026-11-15T18:30:00+00:00,2026-11-15T14:54:14.742662+00:00,Boston College Eagles,New Hampshire Wildcats,77.5,63.0,-23.5,132.5,Draft Kings,recent-scoring-v2,-9.0,8.0,away,over,67,55,W,L
 401918453,2026-11-15T19:00:00+00:00,2026-11-15T14:54:14.742662+00:00,Michigan Wolverines,William & Mary Tribe,84.8,66.2,-27.5,166.5,Draft Kings,recent-scoring-v2,-8.9,-15.5,away,under,,,,
+401921760,2026-11-15T19:00:00+00:00,2026-11-14T14:53:15.246537+00:00,Utah Utes,Washington Huskies,73.1,70.8,-3.5,143.5,Draft Kings,recent-scoring-v2,-1.2,0.4,away,over,,,,
 401909525,2026-11-15T19:30:00+00:00,2026-11-14T20:50:08.004124+00:00,Marquette Golden Eagles,Missouri Tigers,73.8,71.8,-1.5,153.5,DraftKings,recent-scoring-v2,0.5,-7.9,home,under,,,,
 401906866,2026-11-15T20:00:00+00:00,2026-11-14T20:50:08.004124+00:00,Texas Longhorns,Baylor Bears,77.5,71.0,-6.5,160.5,DraftKings,recent-scoring-v2,0.0,-12.0,,under,,,,
 401909493,2026-11-15T20:00:00+00:00,2026-11-14T20:50:08.004124+00:00,Iowa Hawkeyes,Creighton Bluejays,75.1,70.8,-3.5,146.5,DraftKings,recent-scoring-v2,0.8,-0.6,home,under,,,,
