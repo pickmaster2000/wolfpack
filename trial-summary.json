@@ -1,9 +1,9 @@
 {
   "model_version": "recent-scoring-v2",
-  "updated_utc": "2026-11-16T16:14:43.270362+00:00",
+  "updated_utc": "2026-11-16T20:59:12.393659+00:00",
   "trial_start": "2026-11-11",
   "trial_end": "2026-12-11",
-  "captured_games": 80,
+  "captured_games": 88,
   "spread": {
     "wins": 38,
     "losses": 27,
