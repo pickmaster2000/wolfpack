@@ -605,6 +605,23 @@
     "total_line": 159.5,
     "total_pick": "under"
   },
+  "401909742": {
+    "away": "UConn Huskies",
+    "captured_utc": "2026-11-17T21:02:10.534191+00:00",
+    "event_id": "401909742",
+    "home": "Arizona Wildcats",
+    "home_spread": -3.5,
+    "model_version": "recent-scoring-v2",
+    "odds_source": "Draft Kings",
+    "projected_away": 73.0,
+    "projected_home": 74.8,
+    "spread_edge": -1.7,
+    "spread_pick": "away",
+    "tip_utc": "2026-11-19T02:00:00+00:00",
+    "total_edge": -0.7,
+    "total_line": 148.5,
+    "total_pick": "under"
+  },
   "401909774": {
     "away": "Niagara Purple Eagles",
     "captured_utc": "2026-11-15T14:54:14.742662+00:00",
