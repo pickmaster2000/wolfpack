@@ -169,8 +169,18 @@ event_id,tip_utc,captured_utc,home,away,projected_home,projected_away,home_sprea
 401921691,2026-11-21T02:30:00+00:00,2026-11-20T15:07:42.561785+00:00,NC State Wolfpack,Seton Hall Pirates,76.1,69.5,-2.5,140.5,DraftKings,recent-scoring-v2,4.1,5.1,home,over,81,87,L,W
 401925756,2026-11-21T17:00:00+00:00,2026-11-20T21:01:35.762366+00:00,Michigan State Spartans,Detroit Mercy Titans,88.9,56.4,-41.5,150.5,Draft Kings,recent-scoring-v2,-9.0,-5.2,away,under,91,70,W,L
 401921811,2026-11-21T18:00:00+00:00,2026-11-21T14:59:55.535860+00:00,LSU Tigers,Queens University Royals,84.1,65.6,-27.5,173.5,Draft Kings,recent-scoring-v2,-9.0,-23.8,away,under,106,75,L,L
-401909719,2026-11-21T19:00:00+00:00,2026-11-21T14:59:55.535860+00:00,Syracuse Orange,Lafayette Leopards,80.9,64.4,-25.5,143.5,Draft Kings,recent-scoring-v2,-9.0,1.8,away,over,,,,
-401909730,2026-11-21T19:00:00+00:00,2026-11-21T14:59:55.535860+00:00,Wake Forest Demon Deacons,Western Carolina Catamounts,77.1,71.4,-14.5,147.5,Draft Kings,recent-scoring-v2,-8.8,1.0,away,over,,,,
-401909517,2026-11-21T23:00:00+00:00,2026-11-21T14:59:55.535860+00:00,Georgetown Hoyas,Coppin State Eagles,83.5,61.0,-31.5,142.5,Draft Kings,recent-scoring-v2,-9.0,2.0,away,over,,,,
-401921776,2026-11-22T00:00:00+00:00,2026-11-20T21:01:35.762366+00:00,Villanova Wildcats,Michigan Wolverines,75.2,75.4,3.5,160.5,Draft Kings,recent-scoring-v2,3.3,-9.9,home,under,,,,
-401909567,2026-11-22T04:00:00+00:00,2026-11-21T14:59:55.535860+00:00,Duke Blue Devils,Washington State Cougars,83.0,66.5,-25.5,148.5,Draft Kings,recent-scoring-v2,-9.0,1.0,away,over,,,,
+401909719,2026-11-21T19:00:00+00:00,2026-11-21T14:59:55.535860+00:00,Syracuse Orange,Lafayette Leopards,80.9,64.4,-25.5,143.5,Draft Kings,recent-scoring-v2,-9.0,1.8,away,over,84,81,W,W
+401909730,2026-11-21T19:00:00+00:00,2026-11-21T14:59:55.535860+00:00,Wake Forest Demon Deacons,Western Carolina Catamounts,77.1,71.4,-14.5,147.5,Draft Kings,recent-scoring-v2,-8.8,1.0,away,over,90,63,L,W
+401909517,2026-11-21T23:00:00+00:00,2026-11-21T14:59:55.535860+00:00,Georgetown Hoyas,Coppin State Eagles,83.5,61.0,-31.5,142.5,Draft Kings,recent-scoring-v2,-9.0,2.0,away,over,84,60,W,W
+401921776,2026-11-22T00:00:00+00:00,2026-11-20T21:01:35.762366+00:00,Villanova Wildcats,Michigan Wolverines,75.2,75.4,3.5,160.5,Draft Kings,recent-scoring-v2,3.3,-9.9,home,under,79,73,W,W
+401909567,2026-11-22T04:00:00+00:00,2026-11-21T14:59:55.535860+00:00,Duke Blue Devils,Washington State Cougars,83.0,66.5,-25.5,148.5,Draft Kings,recent-scoring-v2,-9.0,1.0,away,over,78,74,W,W
+401902281,2026-11-22T17:00:00+00:00,2026-11-22T14:58:30.111135+00:00,Butler Bulldogs,Nebraska Cornhuskers,70.9,77.1,11.5,155.5,Draft Kings,recent-scoring-v2,5.3,-7.5,home,under,,,,
+401920736,2026-11-22T18:00:00+00:00,2026-11-22T14:58:30.111135+00:00,Northwestern Wildcats,Dayton Flyers,71.4,71.9,3.5,135.5,Draft Kings,recent-scoring-v2,3.0,7.8,home,over,,,,
+401909527,2026-11-22T18:00:00+00:00,2026-11-22T14:58:30.111135+00:00,Marquette Golden Eagles,Chicago State Cougars,84.2,58.7,-34.5,140.5,Draft Kings,recent-scoring-v2,-9.0,2.4,away,over,,,,
+401921748,2026-11-22T19:00:00+00:00,2026-11-22T14:58:30.111135+00:00,Cincinnati Bearcats,UMass Lowell River Hawks,80.6,60.1,-29.5,150.5,Draft Kings,recent-scoring-v2,-9.0,-9.8,away,under,,,,
+401906868,2026-11-22T20:00:00+00:00,2026-11-22T14:58:30.111135+00:00,Texas Longhorns,Southern Indiana Screaming Eagles,88.3,58.8,-38.5,150.5,Draft Kings,recent-scoring-v2,-9.0,-3.4,away,under,,,,
+401920381,2026-11-22T20:30:00+00:00,2026-11-22T14:58:30.111135+00:00,Oklahoma State Cowboys,Virginia Tech Hokies,74.1,75.5,1.5,158.5,Draft Kings,recent-scoring-v2,0.1,-8.9,home,under,,,,
+401909556,2026-11-22T22:00:00+00:00,2026-11-22T14:58:30.111135+00:00,Boston College Eagles,NJIT Highlanders,77.4,62.9,-23.5,135.5,Draft Kings,recent-scoring-v2,-9.0,4.8,away,over,,,,
+401921420,2026-11-22T23:00:00+00:00,2026-11-22T14:58:30.111135+00:00,Minnesota Golden Gophers,Utah Utes,75.2,67.4,-10.5,131.5,Draft Kings,recent-scoring-v2,-2.7,11.1,away,over,,,,
+401920905,2026-11-23T00:00:00+00:00,2026-11-22T14:58:30.111135+00:00,UCLA Bruins,Delaware Blue Hens,83.3,62.8,-29.5,145.5,Draft Kings,recent-scoring-v2,-9.0,0.6,away,over,,,,
+401926774,2026-11-23T01:00:00+00:00,2026-11-22T14:58:30.111135+00:00,USC Trojans,Louisiana Ragin' Cajuns,82.8,59.3,-32.5,146.5,Draft Kings,recent-scoring-v2,-9.0,-4.4,away,under,,,,
