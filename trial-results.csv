@@ -174,9 +174,9 @@ event_id,tip_utc,captured_utc,home,away,projected_home,projected_away,home_sprea
 401909517,2026-11-21T23:00:00+00:00,2026-11-21T14:59:55.535860+00:00,Georgetown Hoyas,Coppin State Eagles,83.5,61.0,-31.5,142.5,Draft Kings,recent-scoring-v2,-9.0,2.0,away,over,84,60,W,W
 401921776,2026-11-22T00:00:00+00:00,2026-11-20T21:01:35.762366+00:00,Villanova Wildcats,Michigan Wolverines,75.2,75.4,3.5,160.5,Draft Kings,recent-scoring-v2,3.3,-9.9,home,under,79,73,W,W
 401909567,2026-11-22T04:00:00+00:00,2026-11-21T14:59:55.535860+00:00,Duke Blue Devils,Washington State Cougars,83.0,66.5,-25.5,148.5,Draft Kings,recent-scoring-v2,-9.0,1.0,away,over,78,74,W,W
-401902281,2026-11-22T17:00:00+00:00,2026-11-22T14:58:30.111135+00:00,Butler Bulldogs,Nebraska Cornhuskers,70.9,77.1,11.5,155.5,Draft Kings,recent-scoring-v2,5.3,-7.5,home,under,,,,
-401920736,2026-11-22T18:00:00+00:00,2026-11-22T14:58:30.111135+00:00,Northwestern Wildcats,Dayton Flyers,71.4,71.9,3.5,135.5,Draft Kings,recent-scoring-v2,3.0,7.8,home,over,,,,
-401909527,2026-11-22T18:00:00+00:00,2026-11-22T14:58:30.111135+00:00,Marquette Golden Eagles,Chicago State Cougars,84.2,58.7,-34.5,140.5,Draft Kings,recent-scoring-v2,-9.0,2.4,away,over,,,,
+401902281,2026-11-22T17:00:00+00:00,2026-11-22T14:58:30.111135+00:00,Butler Bulldogs,Nebraska Cornhuskers,70.9,77.1,11.5,155.5,Draft Kings,recent-scoring-v2,5.3,-7.5,home,under,74,76,W,W
+401909527,2026-11-22T18:00:00+00:00,2026-11-22T14:58:30.111135+00:00,Marquette Golden Eagles,Chicago State Cougars,84.2,58.7,-34.5,140.5,Draft Kings,recent-scoring-v2,-9.0,2.4,away,over,106,62,L,W
+401920736,2026-11-22T18:00:00+00:00,2026-11-22T14:58:30.111135+00:00,Northwestern Wildcats,Dayton Flyers,71.4,71.9,3.5,135.5,Draft Kings,recent-scoring-v2,3.0,7.8,home,over,79,55,W,L
 401921748,2026-11-22T19:00:00+00:00,2026-11-22T14:58:30.111135+00:00,Cincinnati Bearcats,UMass Lowell River Hawks,80.6,60.1,-29.5,150.5,Draft Kings,recent-scoring-v2,-9.0,-9.8,away,under,,,,
 401906868,2026-11-22T20:00:00+00:00,2026-11-22T14:58:30.111135+00:00,Texas Longhorns,Southern Indiana Screaming Eagles,88.3,58.8,-38.5,150.5,Draft Kings,recent-scoring-v2,-9.0,-3.4,away,under,,,,
 401920381,2026-11-22T20:30:00+00:00,2026-11-22T14:58:30.111135+00:00,Oklahoma State Cowboys,Virginia Tech Hokies,74.1,75.5,1.5,158.5,Draft Kings,recent-scoring-v2,0.1,-8.9,home,under,,,,
