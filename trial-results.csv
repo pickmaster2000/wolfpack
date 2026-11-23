@@ -186,9 +186,9 @@ event_id,tip_utc,captured_utc,home,away,projected_home,projected_away,home_sprea
 401926774,2026-11-23T01:00:00+00:00,2026-11-22T14:58:30.111135+00:00,USC Trojans,Louisiana Ragin' Cajuns,82.8,59.3,-32.5,146.5,Draft Kings,recent-scoring-v2,-9.0,-4.4,away,under,82,56,W,W
 401918076,2026-11-23T19:30:00+00:00,2026-11-23T15:19:54.649412+00:00,Clemson Tigers,Ole Miss Rebels,71.5,72.3,5.5,148.5,Draft Kings,recent-scoring-v2,4.7,-4.7,home,under,,,,
 401921708,2026-11-23T22:00:00+00:00,2026-11-23T15:19:54.649412+00:00,BYU Cougars,Washington Huskies,77.2,71.3,-11.5,164.5,Draft Kings,recent-scoring-v2,-5.6,-16.0,away,under,,,,
-401913530,2026-11-24T01:00:00+00:00,2026-11-23T15:19:54.649412+00:00,Illinois Fighting Illini,Winthrop Eagles,95.8,61.2,-43.5,181.5,Draft Kings,recent-scoring-v2,-8.9,-24.5,away,under,,,,
 401909788,2026-11-24T01:00:00+00:00,2026-11-23T15:19:54.649412+00:00,Kansas Jayhawks,Denver Pioneers,87.2,61.7,-34.5,157.5,Draft Kings,recent-scoring-v2,-9.0,-8.6,away,under,,,,
 401913102,2026-11-24T01:00:00+00:00,2026-11-23T15:19:54.649412+00:00,North Carolina Tar Heels,Monmouth Hawks,77.5,68.0,-18.5,153.5,Draft Kings,recent-scoring-v2,-9.0,-8.0,away,under,,,,
+401913530,2026-11-24T01:00:00+00:00,2026-11-23T15:19:54.649412+00:00,Illinois Fighting Illini,Winthrop Eagles,95.8,61.2,-43.5,181.5,Draft Kings,recent-scoring-v2,-8.9,-24.5,away,under,,,,
 401909536,2026-11-24T02:00:00+00:00,2026-11-23T15:19:54.649412+00:00,Providence Friars,VCU Rams,72.9,70.5,-1.5,153.5,Draft Kings,recent-scoring-v2,0.9,-10.1,home,under,,,,
 401918057,2026-11-24T03:00:00+00:00,2026-11-23T15:19:54.649412+00:00,California Golden Bears,Alabama State Hornets,77.3,66.8,-19.5,143.5,Draft Kings,recent-scoring-v2,-9.0,0.6,away,over,,,,
 401909743,2026-11-24T04:30:00+00:00,2026-11-23T15:19:54.649412+00:00,Arizona Wildcats,Colorado State Rams,76.5,68.8,-16.5,158.5,Draft Kings,recent-scoring-v2,-8.8,-13.2,away,under,,,,
