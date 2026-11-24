@@ -1,20 +1,20 @@
 {
   "model_version": "recent-scoring-v2",
-  "updated_utc": "2026-11-24T15:16:24.202994+00:00",
+  "updated_utc": "2026-11-24T21:06:15.102707+00:00",
   "trial_start": "2026-11-11",
   "trial_end": "2026-12-11",
-  "captured_games": 219,
+  "captured_games": 227,
   "spread": {
-    "wins": 105,
+    "wins": 106,
     "losses": 85,
     "pushes": 0,
-    "win_pct": 55.26
+    "win_pct": 55.5
   },
   "total": {
-    "wins": 107,
+    "wins": 108,
     "losses": 83,
     "pushes": 0,
-    "win_pct": 56.32
+    "win_pct": 56.54
   },
   "errors": []
 }
