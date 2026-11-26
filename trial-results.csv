@@ -237,9 +237,9 @@ event_id,tip_utc,captured_utc,home,away,projected_home,projected_away,home_sprea
 401921713,2026-11-26T03:00:00+00:00,2026-11-25T15:20:57.550391+00:00,VCU Rams,Washington Huskies,74.2,72.2,-4.5,146.5,DraftKings,recent-scoring-v2,-2.5,-0.1,away,under,80,78,W,L
 401921672,2026-11-26T04:59:00+00:00,2026-11-25T15:20:57.550391+00:00,Saint Louis Billikens,Stanford Cardinal,72.7,72.9,-4.5,154.5,DraftKings,recent-scoring-v2,-4.7,-8.9,away,under,66,64,W,W
 401921714,2026-11-26T05:30:00+00:00,2026-11-25T15:20:57.550391+00:00,Colorado State Rams,Clemson Tigers,74.0,72.2,2.5,148.5,DraftKings,recent-scoring-v2,4.3,-2.3,home,under,77,75,W,L
-401929281,2026-11-26T16:00:00+00:00,2026-11-26T15:16:23.600410+00:00,Cincinnati Bearcats,Georgia Bulldogs,75.9,73.2,-2.5,154.5,DraftKings,recent-scoring-v2,0.2,-5.4,home,under,,,,
-401906807,2026-11-26T17:00:00+00:00,2026-11-26T15:16:23.600410+00:00,Purdue Boilermakers,Oklahoma Sooners,74.9,70.1,-4.5,140.5,DraftKings,recent-scoring-v2,0.3,4.5,home,over,,,,
-401920528,2026-11-26T18:00:00+00:00,2026-11-25T15:20:57.550391+00:00,Maryland Terrapins,San Diego State Aztecs,74.0,71.8,-1.5,153.5,DraftKings,recent-scoring-v2,0.7,-7.7,home,under,,,,
+401929281,2026-11-26T16:00:00+00:00,2026-11-26T15:16:23.600410+00:00,Cincinnati Bearcats,Georgia Bulldogs,75.9,73.2,-2.5,154.5,DraftKings,recent-scoring-v2,0.2,-5.4,home,under,83,81,L,L
+401906807,2026-11-26T17:00:00+00:00,2026-11-26T15:16:23.600410+00:00,Purdue Boilermakers,Oklahoma Sooners,74.9,70.1,-4.5,140.5,DraftKings,recent-scoring-v2,0.3,4.5,home,over,63,70,L,L
+401920528,2026-11-26T18:00:00+00:00,2026-11-25T15:20:57.550391+00:00,Maryland Terrapins,San Diego State Aztecs,74.0,71.8,-1.5,153.5,DraftKings,recent-scoring-v2,0.7,-7.7,home,under,75,71,W,W
 401929282,2026-11-26T18:30:00+00:00,2026-11-26T15:16:23.600410+00:00,UCF Knights,Boston College Eagles,72.2,72.9,-1.5,146.5,DraftKings,recent-scoring-v2,-2.2,-1.4,away,under,,,,
 401921674,2026-11-26T19:00:00+00:00,2026-11-26T15:16:23.600410+00:00,Arizona State Sun Devils,South Carolina Gamecocks,74.9,71.7,-5.5,139.5,DraftKings,recent-scoring-v2,-2.3,7.1,away,over,,,,
 401906869,2026-11-26T19:30:00+00:00,2026-11-25T21:08:53.882833+00:00,Texas Longhorns,Georgetown Hoyas,76.0,70.8,-8.5,155.5,DraftKings,recent-scoring-v2,-3.3,-8.7,away,under,,,,
@@ -249,8 +249,8 @@ event_id,tip_utc,captured_utc,home,away,projected_home,projected_away,home_sprea
 401925757,2026-11-26T21:30:00+00:00,2026-11-25T21:08:53.882833+00:00,Michigan State Spartans,Arkansas Razorbacks,74.7,69.9,-5.5,151.5,DraftKings,recent-scoring-v2,-0.7,-6.9,away,under,,,,
 401917547,2026-11-26T22:00:00+00:00,2026-11-25T21:08:53.882833+00:00,UCLA Bruins,Saint Mary's Gaels,80.2,70.2,-8.5,153.5,DraftKings,recent-scoring-v2,1.5,-3.1,home,under,,,,
 401920538,2026-11-26T23:00:00+00:00,2026-11-25T15:20:57.550391+00:00,Creighton Bluejays,TCU Horned Frogs,76.9,72.3,1.5,156.5,DraftKings,recent-scoring-v2,6.1,-7.3,home,under,,,,
-401918972,2026-11-27T00:00:00+00:00,2026-11-25T21:08:53.882833+00:00,LSU Tigers,SMU Mustangs,76.2,73.0,-6.5,160.5,DraftKings,recent-scoring-v2,-3.3,-11.3,away,under,,,,
 401909506,2026-11-27T00:00:00+00:00,2026-11-26T15:16:23.600410+00:00,Pittsburgh Panthers,DePaul Blue Demons,71.2,70.0,1.5,138.5,DraftKings,recent-scoring-v2,2.7,2.7,home,over,,,,
+401918972,2026-11-27T00:00:00+00:00,2026-11-25T21:08:53.882833+00:00,LSU Tigers,SMU Mustangs,76.2,73.0,-6.5,160.5,DraftKings,recent-scoring-v2,-3.3,-11.3,away,under,,,,
 401920530,2026-11-27T02:00:00+00:00,2026-11-25T15:20:57.550391+00:00,Louisville Cardinals,St. John's Red Storm,73.3,76.1,4.5,157.5,DraftKings,recent-scoring-v2,1.7,-8.1,home,under,,,,
 401920539,2026-11-27T02:00:00+00:00,2026-11-25T15:20:57.550391+00:00,Alabama Crimson Tide,Kansas State Wildcats,78.2,70.0,-13.5,172.5,DraftKings,recent-scoring-v2,-5.3,-24.3,away,under,,,,
 401920531,2026-11-27T04:30:00+00:00,2026-11-25T15:20:57.550391+00:00,Oregon Ducks,Texas Tech Red Raiders,69.7,75.0,8.5,153.5,DraftKings,recent-scoring-v2,3.2,-8.8,home,under,,,,
