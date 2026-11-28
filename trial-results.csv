@@ -257,31 +257,35 @@ event_id,tip_utc,captured_utc,home,away,projected_home,projected_away,home_sprea
 401920540,2026-11-27T04:30:00+00:00,2026-11-25T15:20:57.550391+00:00,Baylor Bears,Gonzaga Bulldogs,73.1,72.9,4.5,160.5,DraftKings,recent-scoring-v2,4.7,-14.5,home,under,72,64,W,W
 401920429,2026-11-27T16:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Xavier Musketeers,Virginia Cavaliers,71.9,75.3,6.5,155.5,Draft Kings,recent-scoring-v2,3.1,-8.3,home,under,71,83,L,W
 401920533,2026-11-27T18:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Iowa State Cyclones,St. John's Red Storm,72.3,74.7,2.5,151.5,Draft Kings,recent-scoring-v2,0.1,-4.5,home,under,80,75,W,L
-401929288,2026-11-27T18:30:00+00:00,2026-11-27T15:10:48.510350+00:00,Memphis Tigers,Wake Forest Demon Deacons,76.2,71.4,-1.5,153.5,Draft Kings,recent-scoring-v2,3.3,-5.9,home,under,,,,
-401921827,2026-11-27T19:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Vanderbilt Commodores,Southern Jaguars,87.3,59.8,-36.5,151.5,Draft Kings,recent-scoring-v2,-9.0,-4.4,away,under,,,,
-401921717,2026-11-27T19:30:00+00:00,2026-11-27T15:10:48.510350+00:00,UCLA Bruins,Georgetown Hoyas,77.0,71.5,-7.5,149.5,Draft Kings,recent-scoring-v2,-2.0,-1.0,away,under,,,,
-401902282,2026-11-27T20:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Butler Bulldogs,Bellarmine Knights,77.0,67.5,-18.5,152.5,Draft Kings,recent-scoring-v2,-9.0,-8.0,away,under,,,,
-401920542,2026-11-27T20:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Baylor Bears,TCU Horned Frogs,77.1,72.4,-4.5,150.5,Draft Kings,recent-scoring-v2,0.2,-1.0,home,under,,,,
-401920532,2026-11-27T20:30:00+00:00,2026-11-27T15:10:48.510350+00:00,Maryland Terrapins,Oregon Ducks,75.7,69.5,-2.5,149.5,Draft Kings,recent-scoring-v2,3.7,-4.3,home,under,,,,
-401921818,2026-11-27T21:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Missouri Tigers,Arkansas-Pine Bluff Golden Lions,92.7,53.2,-48.5,156.5,Draft Kings,recent-scoring-v2,-9.0,-10.6,away,under,,,,
-401929283,2026-11-27T21:30:00+00:00,2026-11-27T15:10:48.510350+00:00,Boston College Eagles,Cincinnati Bearcats,72.9,72.4,8.5,140.5,Draft Kings,recent-scoring-v2,9.0,4.8,home,over,,,,
-401909789,2026-11-27T22:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Kansas Jayhawks,Villanova Wildcats,77.6,72.6,-10.5,158.5,Draft Kings,recent-scoring-v2,-5.5,-8.3,away,under,,,,
-401920382,2026-11-27T22:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Virginia Tech Hokies,Old Dominion Monarchs,77.8,69.3,-17.5,142.5,Draft Kings,recent-scoring-v2,-9.0,4.6,away,over,,,,
-401920810,2026-11-27T22:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Texas A&M Aggies,Marquette Golden Eagles,76.5,72.8,1.5,159.5,Draft Kings,recent-scoring-v2,5.2,-10.2,home,under,,,,
-401921718,2026-11-27T22:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Saint Mary's Gaels,Texas Longhorns,76.5,76.3,7.5,160.5,Draft Kings,recent-scoring-v2,7.7,-7.7,home,under,,,,
-401920541,2026-11-27T22:30:00+00:00,2026-11-27T15:10:48.510350+00:00,Kansas State Wildcats,Michigan Wolverines,77.3,77.8,9.5,164.5,Draft Kings,recent-scoring-v2,9.0,-9.4,home,under,,,,
-401911030,2026-11-27T23:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Indiana Hoosiers,Bowling Green Falcons,80.8,67.3,-22.5,151.5,Draft Kings,recent-scoring-v2,-9.0,-3.4,away,under,,,,
-401913531,2026-11-27T23:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Illinois Fighting Illini,Western Kentucky Hilltoppers,85.3,67.8,-26.5,175.5,Draft Kings,recent-scoring-v2,-9.0,-22.4,away,under,,,,
-401912711,2026-11-28T00:00:00+00:00,2026-11-27T15:10:48.510350+00:00,North Carolina Tar Heels,West Virginia Mountaineers,76.2,70.7,3.5,149.5,Draft Kings,recent-scoring-v2,9.0,-2.6,home,under,,,,
-401929284,2026-11-28T00:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Georgia Bulldogs,UCF Knights,79.6,72.3,-5.5,162.5,Draft Kings,recent-scoring-v2,1.8,-10.6,home,under,,,,
-401925703,2026-11-28T00:30:00+00:00,2026-11-27T15:10:48.510350+00:00,Houston Cougars,Oakland Golden Grizzlies,87.8,60.2,-36.5,145.5,Draft Kings,recent-scoring-v2,-8.9,2.5,away,over,,,,
-401929289,2026-11-28T00:30:00+00:00,2026-11-27T15:10:48.510350+00:00,Mississippi State Bulldogs,Penn State Nittany Lions,73.1,72.7,-6.5,156.5,Draft Kings,recent-scoring-v2,-6.1,-10.7,away,under,,,,
-401920737,2026-11-28T01:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Northwestern Wildcats,Northeastern Huskies,74.9,70.4,-12.5,147.5,Draft Kings,recent-scoring-v2,-8.0,-2.2,away,under,,,,
-401920543,2026-11-28T01:30:00+00:00,2026-11-27T15:10:48.510350+00:00,Alabama Crimson Tide,Miami Hurricanes,75.3,78.0,2.5,170.5,Draft Kings,recent-scoring-v2,-0.2,-17.2,away,under,,,,
-401919033,2026-11-28T02:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Kentucky Wildcats,Wichita State Shockers,73.7,73.7,-4.5,157.5,Draft Kings,recent-scoring-v2,-4.5,-10.1,away,under,,,,
-401920534,2026-11-28T02:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Louisville Cardinals,Tennessee Volunteers,72.6,73.4,-2.5,149.5,Draft Kings,recent-scoring-v2,-3.3,-3.5,away,under,,,,
-401920544,2026-11-28T04:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Gonzaga Bulldogs,Creighton Bluejays,77.2,72.4,-6.5,159.5,Draft Kings,recent-scoring-v2,-1.7,-9.9,away,under,,,,
-401920535,2026-11-28T04:30:00+00:00,2026-11-27T15:10:48.510350+00:00,Texas Tech Red Raiders,San Diego State Aztecs,73.6,66.2,-7.5,143.5,Draft Kings,recent-scoring-v2,-0.1,-3.7,away,under,,,,
-401920890,2026-11-28T17:00:00+00:00,2026-11-27T21:09:18.683460+00:00,Seton Hall Pirates,Siena Saints,80.2,71.7,-17.5,155.5,Draft Kings,recent-scoring-v2,-9.0,-3.6,away,under,,,,
+401929288,2026-11-27T18:30:00+00:00,2026-11-27T15:10:48.510350+00:00,Memphis Tigers,Wake Forest Demon Deacons,76.2,71.4,-1.5,153.5,Draft Kings,recent-scoring-v2,3.3,-5.9,home,under,85,88,L,L
+401921827,2026-11-27T19:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Vanderbilt Commodores,Southern Jaguars,87.3,59.8,-36.5,151.5,Draft Kings,recent-scoring-v2,-9.0,-4.4,away,under,111,56,L,L
+401921717,2026-11-27T19:30:00+00:00,2026-11-27T15:10:48.510350+00:00,UCLA Bruins,Georgetown Hoyas,77.0,71.5,-7.5,149.5,Draft Kings,recent-scoring-v2,-2.0,-1.0,away,under,75,63,L,W
+401902282,2026-11-27T20:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Butler Bulldogs,Bellarmine Knights,77.0,67.5,-18.5,152.5,Draft Kings,recent-scoring-v2,-9.0,-8.0,away,under,92,56,L,W
+401920542,2026-11-27T20:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Baylor Bears,TCU Horned Frogs,77.1,72.4,-4.5,150.5,Draft Kings,recent-scoring-v2,0.2,-1.0,home,under,69,88,L,L
+401920532,2026-11-27T20:30:00+00:00,2026-11-27T15:10:48.510350+00:00,Maryland Terrapins,Oregon Ducks,75.7,69.5,-2.5,149.5,Draft Kings,recent-scoring-v2,3.7,-4.3,home,under,88,73,W,L
+401921818,2026-11-27T21:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Missouri Tigers,Arkansas-Pine Bluff Golden Lions,92.7,53.2,-48.5,156.5,Draft Kings,recent-scoring-v2,-9.0,-10.6,away,under,97,61,W,L
+401929283,2026-11-27T21:30:00+00:00,2026-11-27T15:10:48.510350+00:00,Boston College Eagles,Cincinnati Bearcats,72.9,72.4,8.5,140.5,Draft Kings,recent-scoring-v2,9.0,4.8,home,over,59,70,L,L
+401909789,2026-11-27T22:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Kansas Jayhawks,Villanova Wildcats,77.6,72.6,-10.5,158.5,Draft Kings,recent-scoring-v2,-5.5,-8.3,away,under,65,50,L,W
+401920382,2026-11-27T22:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Virginia Tech Hokies,Old Dominion Monarchs,77.8,69.3,-17.5,142.5,Draft Kings,recent-scoring-v2,-9.0,4.6,away,over,70,61,W,L
+401920810,2026-11-27T22:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Texas A&M Aggies,Marquette Golden Eagles,76.5,72.8,1.5,159.5,Draft Kings,recent-scoring-v2,5.2,-10.2,home,under,78,76,W,W
+401921718,2026-11-27T22:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Saint Mary's Gaels,Texas Longhorns,76.5,76.3,7.5,160.5,Draft Kings,recent-scoring-v2,7.7,-7.7,home,under,73,76,W,W
+401920541,2026-11-27T22:30:00+00:00,2026-11-27T15:10:48.510350+00:00,Kansas State Wildcats,Michigan Wolverines,77.3,77.8,9.5,164.5,Draft Kings,recent-scoring-v2,9.0,-9.4,home,under,69,98,L,L
+401911030,2026-11-27T23:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Indiana Hoosiers,Bowling Green Falcons,80.8,67.3,-22.5,151.5,Draft Kings,recent-scoring-v2,-9.0,-3.4,away,under,93,57,L,W
+401913531,2026-11-27T23:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Illinois Fighting Illini,Western Kentucky Hilltoppers,85.3,67.8,-26.5,175.5,Draft Kings,recent-scoring-v2,-9.0,-22.4,away,under,116,76,L,L
+401912711,2026-11-28T00:00:00+00:00,2026-11-27T15:10:48.510350+00:00,North Carolina Tar Heels,West Virginia Mountaineers,76.2,70.7,3.5,149.5,Draft Kings,recent-scoring-v2,9.0,-2.6,home,under,59,72,L,W
+401929284,2026-11-28T00:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Georgia Bulldogs,UCF Knights,79.6,72.3,-5.5,162.5,Draft Kings,recent-scoring-v2,1.8,-10.6,home,under,76,88,L,L
+401925703,2026-11-28T00:30:00+00:00,2026-11-27T15:10:48.510350+00:00,Houston Cougars,Oakland Golden Grizzlies,87.8,60.2,-36.5,145.5,Draft Kings,recent-scoring-v2,-8.9,2.5,away,over,77,46,W,L
+401929289,2026-11-28T00:30:00+00:00,2026-11-27T15:10:48.510350+00:00,Mississippi State Bulldogs,Penn State Nittany Lions,73.1,72.7,-6.5,156.5,Draft Kings,recent-scoring-v2,-6.1,-10.7,away,under,63,68,W,W
+401920737,2026-11-28T01:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Northwestern Wildcats,Northeastern Huskies,74.9,70.4,-12.5,147.5,Draft Kings,recent-scoring-v2,-8.0,-2.2,away,under,65,61,W,W
+401920543,2026-11-28T01:30:00+00:00,2026-11-27T15:10:48.510350+00:00,Alabama Crimson Tide,Miami Hurricanes,75.3,78.0,2.5,170.5,Draft Kings,recent-scoring-v2,-0.2,-17.2,away,under,81,87,W,W
+401919033,2026-11-28T02:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Kentucky Wildcats,Wichita State Shockers,73.7,73.7,-4.5,157.5,Draft Kings,recent-scoring-v2,-4.5,-10.1,away,under,71,73,W,W
+401920534,2026-11-28T02:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Louisville Cardinals,Tennessee Volunteers,72.6,73.4,-2.5,149.5,Draft Kings,recent-scoring-v2,-3.3,-3.5,away,under,84,64,L,W
+401920544,2026-11-28T04:00:00+00:00,2026-11-27T15:10:48.510350+00:00,Gonzaga Bulldogs,Creighton Bluejays,77.2,72.4,-6.5,159.5,Draft Kings,recent-scoring-v2,-1.7,-9.9,away,under,89,97,W,L
+401920535,2026-11-28T04:30:00+00:00,2026-11-27T15:10:48.510350+00:00,Texas Tech Red Raiders,San Diego State Aztecs,73.6,66.2,-7.5,143.5,Draft Kings,recent-scoring-v2,-0.1,-3.7,away,under,78,75,W,L
 401918961,2026-11-28T17:00:00+00:00,2026-11-27T21:09:18.683460+00:00,NC State Wolfpack,Elon Phoenix,80.3,66.8,-22.5,152.5,Draft Kings,recent-scoring-v2,-9.0,-5.4,away,under,,,,
+401920890,2026-11-28T17:00:00+00:00,2026-11-27T21:09:18.683460+00:00,Seton Hall Pirates,Siena Saints,80.2,71.7,-17.5,155.5,Draft Kings,recent-scoring-v2,-9.0,-3.6,away,under,,,,
+401920310,2026-11-28T18:00:00+00:00,2026-11-28T14:59:10.029203+00:00,Georgia Tech Yellow Jackets,Alcorn State Braves,84.5,67.0,-26.5,161.5,DraftKings,recent-scoring-v2,-9.0,-10.0,away,under,,,,
+401920728,2026-11-28T19:00:00+00:00,2026-11-28T14:59:10.029203+00:00,Iowa Hawkeyes,Prairie View A&M Panthers,83.4,58.9,-33.5,137.5,DraftKings,recent-scoring-v2,-9.0,4.8,away,over,,,,
 401916308,2026-11-29T01:00:00+00:00,2026-11-27T21:09:18.683460+00:00,Minnesota Golden Gophers,California Golden Bears,74.6,71.5,-9.5,140.5,Draft Kings,recent-scoring-v2,-6.4,5.6,away,over,,,,
+401919851,2026-11-29T01:00:00+00:00,2026-11-28T14:59:10.029203+00:00,Notre Dame Fighting Irish,Stonehill Skyhawks,88.0,66.5,-30.5,148.5,DraftKings,recent-scoring-v2,-9.0,6.0,away,over,,,,
+401920536,2026-11-29T03:30:00+00:00,2026-11-28T14:59:10.029203+00:00,Creighton Bluejays,Louisville Cardinals,79.6,76.1,5.5,158.5,DraftKings,recent-scoring-v2,9.0,-2.8,home,under,,,,
